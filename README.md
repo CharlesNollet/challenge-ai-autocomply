@@ -4,6 +4,8 @@
 
 Votre mission est de développer une fonction de **découpage de PDF** (PDF splitter) qui analyse un livre des minutes (minute book) et identifie automatiquement les différentes sections du document.
 
+Si vous avez des questions pendant le concours, n'hésitez pas à vous joindre au forum de discussion sur Discord https://discord.gg/s8n7tPmd
+
 ### Le Défi
 
 Vous recevrez un PDF contenant un livre des minutes avec plusieurs sections. Votre objectif est de retourner, pour chaque section, la **page de début** et la **page de fin**.
@@ -26,14 +28,14 @@ Vous devez identifier les sections suivantes dans le registre des procès-verbau
 
 1. **Articles & Amendments** / **Statuts et Amendements**
 2. **By Laws** / **Règlements**
-3. **Unanimous Shareholder Agreement** / **Convention d'Actionnaires Unanime**
+3. **Unanimous Shareholder Agreement** / **Convention Unanime d'Actionnaires**
 4. **Minutes & Resolutions** / **Procès-verbaux et Résolutions**
 5. **Directors Register** / **Registre des Administrateurs**
 6. **Officers Register** / **Registre des Dirigeants**
 7. **Shareholder Register** / **Registre des Actionnaires**
-8. **Securities Register** / **Registre des Titres**
+8. **Securities Register** / **Registre des Valeurs Mobilières**
 9. **Share Certificates** / **Certificats d'Actions**
-10. **Ultimate Beneficial Owner Register** / **Registre des Particuliers Ayant un Controle Important**
+10. **Ultimate Beneficial Owner Register** / **Registre des Particuliers Ayant un Contrôle Important**
 
 Votre solution doit être capable de détecter ces sections même si elles apparaissent dans un ordre différent ou si certaines sont absentes du document.
 
@@ -316,6 +318,4 @@ N'oubliez pas : le score est calculé comme **Temps × Requêtes × Erreurs**. T
 
 Les membres de l'équipe gagnante se mériteront une entrevue afin d'obtenir un stage d'été chez AutoComply.
 
-Si vous avez des questions pendant le concours, n'hésitez pas à nous contacter au ```hr@autocomply.ca```.
-
-
+Si vous avez des questions pendant le concours, n'hésitez pas à vous joindre au forum de discussion sur Discord https://discord.gg/s8n7tPmd
