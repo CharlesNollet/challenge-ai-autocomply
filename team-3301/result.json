@@ -1,0 +1,54 @@
+{
+  "sections": [
+    {
+      "name": "Articles & Amendments",
+      "startPage": 1,
+      "endPage": 20
+    },
+    {
+      "name": "By Laws",
+      "startPage": 21,
+      "endPage": 45
+    },
+    {
+      "name": "Unanimous Shareholder Agreement",
+      "startPage": 46,
+      "endPage": 87
+    },
+    {
+      "name": "Minutes & Resolutions",
+      "startPage": 88,
+      "endPage": 169
+    },
+    {
+      "name": "Directors Register",
+      "startPage": 170,
+      "endPage": 170
+    },
+    {
+      "name": "Officers Register",
+      "startPage": 171,
+      "endPage": 171
+    },
+    {
+      "name": "Shareholder Register",
+      "startPage": 172,
+      "endPage": 173
+    },
+    {
+      "name": "Securities Register",
+      "startPage": 174,
+      "endPage": 183
+    },
+    {
+      "name": "Share Certificates",
+      "startPage": 184,
+      "endPage": 215
+    },
+    {
+      "name": "Ultimate Beneficial Owner Register",
+      "startPage": 216,
+      "endPage": 216
+    }
+  ]
+}
